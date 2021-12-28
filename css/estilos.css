@@ -7,6 +7,8 @@ body
 
 #cabecera
 {
-    background-color: rgb(68, 92, 92);
-    color: white;
+    background: url("../imagenes/git.png") 1px 1px;
+    background-color: rgb(68, 100, 92);
+    color: rgb(253, 253, 253);
+    padding: 0.5em 0 0, 5em 2em;
 }
