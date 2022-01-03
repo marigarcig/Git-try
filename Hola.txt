@@ -5,10 +5,7 @@ master 1
 
 master 2
 
-<<<<<<< HEAD
 master 3
-=======
 Exp 1
 
 Exp 2
->>>>>>> fc3c967 (Agrego experimentos otra vez)
